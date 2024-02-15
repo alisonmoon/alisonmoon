@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alisonmoon
-- 👀 I’m interested in making bomb ass websites
+- 👀 I’m interested in learning to make cool websites
 - 🌱 I’m currently learning HTLM, CSS and Javascript
 - 📫 How to reach me via email alison.vu@icloud.com
 - 😄 Pronouns: she/her
